@@ -1,6 +1,8 @@
 Topcoat Icons
 ============
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/ed989539bc9b4b1bbf951cf649b25b5b)](https://app.codacy.com/gh/QNA4WEB/icons?utm_source=github.com&utm_medium=referral&utm_content=QNA4WEB/icons&utm_campaign=Badge_Grade)
+
 Open Source Icons designed for TopCoat
 
 common icons
